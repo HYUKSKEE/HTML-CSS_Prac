@@ -47,14 +47,14 @@ HTML 태그 활용 Semantic Markup Practice - [△]
 ## Twiter Markup Chellange
 
 1. 구조적 웹 문서 설계 이해 - [o]
-2. Header - []
-3. Global Navigation - []
-4. Main - []
-5. Tweet Form - []
-6. Timeline - []
-7. Tweet - []
-8. Aside - []
-9. Footer - []
+2. Header - [o]
+3. Global Navigation - [o]
+4. Main - [x]
+5. Tweet Form - [x]
+6. Timeline - [x]
+7. Tweet - [x]
+8. Aside - [x]
+9. Footer - [x]
 
 ## CSS 맛보기
 1. HTML 태그 활용 Semantic Markup Practice css 이해하기 - []
@@ -62,7 +62,7 @@ HTML 태그 활용 Semantic Markup Practice - [△]
 
 ###check list
 5km 런닝 - [o]
-HTML 태그 활용 Semantic Markup Practice 복기 - []
-Twiter Markup Chellange 복기 - []
+HTML 태그 활용 Semantic Markup Practice 복기 - [o]
+Twiter Markup Chellange 복기 - [x]
 
 
