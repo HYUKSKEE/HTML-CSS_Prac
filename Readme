@@ -14,9 +14,9 @@
 1.Ad Banner - [o]
 2.Google Search Result Item - [o]
 3.Feature Box - [o]
-4.Logo in Header - []
-5.Breadcrumb & Pagination - []
-5.Product Card - []
+4.Logo in Header - [x]
+5.Breadcrumb & Pagination - [x]
+5.Product Card - [x]
 
 ---
 
@@ -24,7 +24,7 @@
 
 5km 런닝 - [o]
 HTML 태그 정리 기록 - [o]
-HTML 태그 활용 Semantic Markup Practice - [o]
+HTML 태그 활용 Semantic Markup Practice - [△]
 19시 멘토와의 회의 - [o]
 
 
@@ -32,21 +32,21 @@ HTML 태그 활용 Semantic Markup Practice - [o]
 
 ##HTML 태그 활용 Semantic Markup Practice
 
-1.Logo in Header - [o]
-2.Breadcrumb & Pagination - [o]
-3.Product Card - [o]
-4.Instagram User Profile - [o]
-5.Receipt - []
-6.Github Dropdown Menu - []
-7.Input Group - []
-8.Feed - []
-9.Gmail Inbox - []
-10.Music Player - []
-11.Video Player - []
+1. Logo in Header - [o]
+2. Breadcrumb & Pagination - [o]
+3. Product Card - [o]
+4. Instagram User Profile - [o]
+5. Receipt - [o]
+6. Github Dropdown Menu - [o]
+7. Input Group - [o]
+8. Feed - [o]
+9. Gmail Inbox - [o]
+10. Music Player - [o]
+11. Video Player - [o]
 
 ## Twiter Markup Chellange
 
-1. 구조적 웹 문서 설계 이해
+1. 구조적 웹 문서 설계 이해 - [o]
 2. Header - []
 3. Global Navigation - []
 4. Main - []
@@ -57,4 +57,12 @@ HTML 태그 활용 Semantic Markup Practice - [o]
 9. Footer - []
 
 ## CSS 맛보기
+1. HTML 태그 활용 Semantic Markup Practice css 이해하기 - []
+---
+
+###check list
+5km 런닝 - [o]
+HTML 태그 활용 Semantic Markup Practice 복기 - []
+Twiter Markup Chellange 복기 - []
+
 
