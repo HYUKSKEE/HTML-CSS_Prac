@@ -69,17 +69,3 @@ Twiter Markup Chellange 복기 - [x]
 3. Tweet - [o] : blog, news 등등 article태그를 사용한다.
 4. Aside - [o] 본문 내용과 직접적인 연관이 없는 동떨어진 녀석들은 Aside태그 사용.(배너, 광고 등등)
 5. Footer - [o] 맥락, section의 하단부 footer태그를 사용하는게 Semantic하다! 
-
-04/20 To Do List
-
-## Twiter Markup Chellange
-
-1. Twiter Markup merge
-
-## Hello css
-
-1. Setup - [o]
-2. Box - []
-3. Float - []
-
-
