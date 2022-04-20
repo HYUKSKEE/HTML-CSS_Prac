@@ -1,0 +1,27 @@
+# 올바른 Sectioning Elements 사용법
+
+##Sectioning Elements 구성
+-Section
+-article
+-nav
+-aside
+
+Sectioning Elements 공통적인 룰
+- Sectioning Elements 내에는 반드시 heading 태그를 작성해야 한다! (ex1)
+- 이 section이 어떤 section인지 정확한 정보를 전달하기 위함! (ex2)
+ex1)
+<Section>
+    <h1>섹션 제목</h1>    <----이렇게 h태그를 꼭 써줘야 한다.
+    <p>...</p>
+        .
+        .
+        .
+</section>
+
+ex2)
+<nav>
+    <h1>메뉴</h1>            <--------보이지 않아도 명시할 필요가 있다
+        <ul>
+            <li>...</li>
+        </ul>
+</nav>

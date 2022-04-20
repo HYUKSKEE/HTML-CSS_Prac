@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <section>
+      <h2>
+        label radio 사용하기 : attribute 'for'(label 태그가 지칭하는 id값이
+        들어감), 'name', 'value' 사용
+      </h2>
+      <form action="" method="GET">
+        <input
+          type="radio"
+          id="subscription"
+          name="subscription"
+          value="subscribed"
+        />
+        <label for="subscription">구독중</label>
+        <input
+          type="radio"
+          id="unsubscription"
+          name="subscription"
+          value="unsubscribed"
+        />
+        <label for="subscription">미구독</label>
+        <button type="submit">submit</button>
+      </form>
+    </section>
+    <hr />
+    <section>
+      <h2>label checkbox 사용하기 : attribute 'for', 'name', 'value' 사용</h2>
+      <form action="" method="GET">
+        <input type="checkbox" id="apple" name="fruit" value="사과" />
+        <label for="subscription">사과</label>
+        <input type="checkbox" id="banana" name="fruit" value="바나나" />
+        <label for="subscription">바나나</label>
+        <input type="checkbox" id="orange" name="fruit" value="오렌지" />
+        <label for="subscription">오렌지</label>
+        <button type="submit">submit</button>
+      </form>
+    </section>
+  </body>
+</html>
