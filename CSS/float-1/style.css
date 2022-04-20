@@ -16,3 +16,22 @@ a {
 }
 
 /* ▼ WHERE YOUR CODE BEGINS */
+
+/* 
+1. list 불릿 없애기 - [o]
+2. list 가로로 배치 - [o]
+3. 마우스 포인터 올렸을때 글씨 강조 (굵기, 색상)
+4. list 포인터 올렸을때 list bottom 강조
+*/
+
+ul {
+  width: 540px;
+  height: 54px;
+  padding: 30px;
+  list-style: none;
+  border: 1px solid blueviolet;
+  display: flex;
+}
+
+ul > li {
+}
