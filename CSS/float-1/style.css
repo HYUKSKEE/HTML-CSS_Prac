@@ -15,23 +15,66 @@ a {
   text-decoration: none;
 }
 
+.tap-menu {
+  max-width: 540px;
+  list-style: none;
+  padding-left: 0px;
+  border-bottom: 1px solid #e5eaef;
+}
+
+.tap-menu::after {
+  content: "";
+  display: block;
+  clear: left;
+}
+
+.tap-menu-item {
+  float: left;
+  margin-right: 16px;
+}
+
+.tap-menu-item a {
+  display: block;
+  padding: 16px 20px;
+}
+
+.tap-menu-item a:hover {
+  color: #2860e1;
+  font-weight: 500;
+  border-bottom: 2px solid #2860e1;
+}
+
 /* ▼ WHERE YOUR CODE BEGINS */
 
 /* 
 1. list 불릿 없애기 - [o]
 2. list 가로로 배치 - [o]
-3. 마우스 포인터 올렸을때 글씨 강조 (굵기, 색상)
-4. list 포인터 올렸을때 list bottom 강조
+3. 마우스 포인터 올렸을때 글씨 강조 (굵기, 색상) - [o]
+4. list 포인터 올렸을때 list bottom 강조 - [o]
 */
 
-ul {
+/* ul {
   width: 540px;
   height: 54px;
-  padding: 30px;
+  margin: auto;
+  padding-left: 0px;
   list-style: none;
-  border: 1px solid blueviolet;
-  display: flex;
+  border: 1px solid #2860e1;
+  text-align: center;
 }
-
-ul > li {
+li {
+  width: 134px;
+  padding: 15px;
+  float: left;
+  text-align: center;
 }
+li ::before {
+  display: block;
+}
+ul :hover {
+  border-bottom: 2px solid #2860e1;
+  color: #2860e1;
+}
+li :hover {
+  border: none;
+} */
